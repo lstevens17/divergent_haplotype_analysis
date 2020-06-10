@@ -1,3 +1,3 @@
-# divergent_haplotype_analysis
+# Divergent haplotype analysis
 
 Plots
